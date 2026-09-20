@@ -4,7 +4,7 @@ Projeto de análise de dados de filmes desenvolvido do zero para demonstrar o ci
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Python:** Ingestão de dados via API e manipulação de DataFrames com `pandas` e `requests`.
 * **SQL / SQLite:** Armazenamento relacional e estruturação do banco de dados.
@@ -13,7 +13,7 @@ Projeto de análise de dados de filmes desenvolvido do zero para demonstrar o ci
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 1. **Extração dos dados via API:**
    ```bash
